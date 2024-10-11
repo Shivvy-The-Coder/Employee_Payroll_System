@@ -19,7 +19,7 @@ abstract class Employee
             return id;
         }
 
-    // the function which ia hve mentioned above are normal functions
+    // the function which ia have mentioned above are normal functions
 
     // now creating an abstract method
        public abstract double calculatesalary();
